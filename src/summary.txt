@@ -1,0 +1,25 @@
+1) Why did you choose the library, tools and the language?
+I love Java, I have been working with Java for about three years now.
+I finished two core Java classes at UW Madison (OOP2 and OOP3) so I am very well versed in it. I was not aware
+many companies used Java for API's too. It was my internship at Coyna where I learnt not everyone needs
+uses Python for API's. Using Spring Boot with JOOQ and Java was hard at first but I was soon able to
+catch up to it. For about a month I built so many CRUD API's using the tech stack that now with backend logic
+I can build API's with ease. It was my experience that made me choose the library, tools and language that I
+used in my code.
+
+2)What are the advantages and disadvantages of your solution?
+I would like to emphasise on one main advantage : using repository, service, and controller layer
+this comes very handy when dealing with complex code that starts to build as we handle large projects.
+This division helps to point out where exactly the code went wrong and hence the bug/logic error could
+be handled very easily.
+Disadvantage would be the steep learning curve of Spring Boot , it involves a lot of modules, packages for its setup.
+While it offers a wide set of features it could be very overwhelming for a beginner.
+
+3) What has been a favorite school/personal project thus far? What about it that challenged you?
+Layon, my favorite project, tackled career planning and layoff prediction using Python, Java, R, and
+machine learning. The tech stack was diverse and challenging, but the outcome was rewarding.
+Dealing with CSV, JSON, and data cleaning was demanding, as was training a machine learning model
+for state-wise layoff predictions over five years. Implementing an interactive map using Material UI,
+JavaScript, React.js, and Node.js added complexity. The pressure of my first hackathon, along with
+time constraints, made it intense. Yet, the experience was enthralling, emphasizing the steep
+learning curve and efficient problem-solving inherent in such projects.
